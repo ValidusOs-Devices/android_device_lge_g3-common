@@ -3,7 +3,11 @@
     "remote":      "github",
     "repository":  "dblockopp/G3_CooCoo_Kernel",
     "target_path": "kernel/lge/g3",
+<<<<<<< HEAD
     "branch":      "6.0.1"
+=======
+    "branch":      "CooCoo"
+>>>>>>> 2f940c8808fd0a98fed15d7fae4be30e1512a442
   },
   {  
     "remote":      "github",
