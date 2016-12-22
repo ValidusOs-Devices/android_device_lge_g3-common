@@ -134,6 +134,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     lights.msm8974
 
+# Location
+PRODUCT_PACKAGES += \
+    gps.msm8974
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/izat.conf:system/etc/izat.conf
+
 # Media
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/media_codecs.xml:system/etc/media_codecs.xml \
