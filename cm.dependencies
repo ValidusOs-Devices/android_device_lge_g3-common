@@ -1,10 +1,17 @@
 [
   {
-    "repository": "android_kernel_lge_g3",
-    "target_path": "kernel/lge/g3"
+    "repository": "crdroid-devices/android_kernel_lge_g3",
+    "target_path": "kernel/lge/g3",
+    "revision": "7.1"
   },
   {
     "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "revision": "cm-14.1"
   }
 ]
