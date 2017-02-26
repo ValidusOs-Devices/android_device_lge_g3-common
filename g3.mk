@@ -102,8 +102,8 @@ PRODUCT_PACKAGES += \
     liboverlay
 
 # Doze
-PRODUCT_PACKAGES += \
-    MotoDoze
+#PRODUCT_PACKAGES += \
+ #   MotoDoze
 
 # Gello
 PRODUCT_PACKAGES += \
