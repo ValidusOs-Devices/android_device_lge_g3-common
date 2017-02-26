@@ -254,7 +254,7 @@
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareWakeKeys">64</integer>
+    <!--integer name="config_deviceHardwareWakeKeys">64</integer-->
 
     <!-- Indicate whether the SD card is accessible without removing the battery. -->
     <bool name="config_batterySdCardAccessibility">true</bool>
@@ -295,6 +295,6 @@
     <integer translatable="false" name="config_bluetooth_operating_voltage_mv">3700</integer>
 
     <!-- Wether doze feature is enabled by default in settings. -->
-    <bool name="config_doze_enabled_by_default">true</bool>
+    <!--bool name="config_doze_enabled_by_default">true</bool-->
 
 </resources>
