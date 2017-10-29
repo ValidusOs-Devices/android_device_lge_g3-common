@@ -233,6 +233,10 @@ PRODUCT_PACKAGES += \
     init.sensors.sh \
     ueventd.g3.rc
 
+# Renderscript
+PRODUCT_PACKAGES += \
+    android.hardware.renderscript@1.0-impl 
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-impl \
